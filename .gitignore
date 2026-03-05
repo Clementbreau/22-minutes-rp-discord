@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files (si tu en utilises pour stocker le clientId)
+.env
